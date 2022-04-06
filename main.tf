@@ -47,3 +47,4 @@ resource "azurerm_windows_virtual_machine" "example" {
     storage_account_type = "Standard_LRS"
   } 
 }
+# this is a tset change for new branch

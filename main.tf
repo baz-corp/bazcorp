@@ -47,4 +47,5 @@ resource "azurerm_windows_virtual_machine" "example" {
     storage_account_type = "Standard_LRS"
   } 
 }
+ # test change for feature baranch
  
